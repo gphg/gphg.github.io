@@ -1,0 +1,16 @@
+# Jekyll
+_site/
+*-cache/
+.jekyll-metadata
+
+# Ruby
+.bundle/
+.ruby-gemset
+.ruby-version
+*.gem
+Gemfile.lock
+
+# Folders
+/vendor
+/node_modules
+
